@@ -1,0 +1,17 @@
+C:\Users\Gonzalo\source\repos\KitMalvina Easy\KitMalvina Easy\obj\Release\net5.0-windows\KitMalvina_Easy.Form1.resources
+C:\Users\Gonzalo\source\repos\KitMalvina Easy\KitMalvina Easy\obj\Release\net5.0-windows\KitMalvina Easy.csproj.GenerateResource.cache
+C:\Users\Gonzalo\source\repos\KitMalvina Easy\KitMalvina Easy\obj\Release\net5.0-windows\KitMalvina Easy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\source\repos\KitMalvina Easy\KitMalvina Easy\obj\Release\net5.0-windows\KitMalvina Easy.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\source\repos\KitMalvina Easy\KitMalvina Easy\obj\Release\net5.0-windows\KitMalvina Easy.AssemblyInfo.cs
+C:\Users\Gonzalo\source\repos\KitMalvina Easy\KitMalvina Easy\obj\Release\net5.0-windows\KitMalvina Easy.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\source\repos\KitMalvina Easy\KitMalvina Easy\bin\Release\net5.0-windows\KitMalvina Easy.exe
+C:\Users\Gonzalo\source\repos\KitMalvina Easy\KitMalvina Easy\bin\Release\net5.0-windows\KitMalvina Easy.deps.json
+C:\Users\Gonzalo\source\repos\KitMalvina Easy\KitMalvina Easy\bin\Release\net5.0-windows\KitMalvina Easy.runtimeconfig.json
+C:\Users\Gonzalo\source\repos\KitMalvina Easy\KitMalvina Easy\bin\Release\net5.0-windows\KitMalvina Easy.runtimeconfig.dev.json
+C:\Users\Gonzalo\source\repos\KitMalvina Easy\KitMalvina Easy\bin\Release\net5.0-windows\KitMalvina Easy.dll
+C:\Users\Gonzalo\source\repos\KitMalvina Easy\KitMalvina Easy\bin\Release\net5.0-windows\KitMalvina Easy.pdb
+C:\Users\Gonzalo\source\repos\KitMalvina Easy\KitMalvina Easy\obj\Release\net5.0-windows\KitMalvina Easy.dll
+C:\Users\Gonzalo\source\repos\KitMalvina Easy\KitMalvina Easy\obj\Release\net5.0-windows\KitMalvina Easy.pdb
+C:\Users\Gonzalo\source\repos\KitMalvina Easy\KitMalvina Easy\obj\Release\net5.0-windows\KitMalvina Easy.genruntimeconfig.cache
+C:\Users\Gonzalo\source\repos\KitMalvina Easy\KitMalvina Easy\obj\Release\net5.0-windows\ref\KitMalvina Easy.dll
+C:\Users\Gonzalo\source\repos\KitMalvina Easy\KitMalvina Easy\bin\Release\net5.0-windows\ref\KitMalvina Easy.dll
